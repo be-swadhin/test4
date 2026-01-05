@@ -16,6 +16,8 @@ public class Test4Application {
 		boolean isPresent=false;
 		float m=10.3f;
 		char ch='x';
+		int a=14;
+		String sub="gitPractice";
 		boolean isSub=true;
 		char i='z';
 		SpringApplication.run(Test4Application.class, args);
